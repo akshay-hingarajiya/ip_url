@@ -1,5 +1,5 @@
 #!/bin/bash
 
 
- echo '${splunkPassword}'
- echo '${basicAuthPassword}'
+ echo "${splunkPassword}"
+ echo "${basicAuthPassword}"
